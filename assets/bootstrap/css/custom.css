@@ -4,6 +4,8 @@
 
 .title { padding: 10px 0; }
 
+#weather { margin-top: 4px; padding-top: 22px; }
+
 .subscribe { float: right; margin-top: 4px; padding-top: 22px; }
 .subscribe span { font-size: 18px; }
 
