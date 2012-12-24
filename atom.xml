@@ -1,178 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>Small Steps</title>
-  <meta name="author" content="Tomas Skogberg">
+  <title><![CDATA[Small Steps]]></title>
+  <link href="http://tskogberg.github.com/atom.xml" rel="self"/>
+  <link href="http://tskogberg.github.com/"/>
+  <updated>2012-12-24T03:12:01+01:00</updated>
+  <id>http://tskogberg.github.com/</id>
+  <author>
+    <name><![CDATA[Tomas Skogberg]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
-  <meta name="description" content="New domain and ideas for this blog. Since last time I&#8217;ve gotten a
-work as a Ruby/Rails developer and my idea is to share some thoughts
-about &hellip;">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  
-  <link rel="canonical" href="http://tskogberg.github.com">
-  <link href="/favicon.ico" rel="icon">
-  
-  <link href="/assets/bootstrap/css/spacelab.min.css" rel="stylesheet" type="text/css">
-  <link href="/assets/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css">
-  <link href="/assets/bootstrap/css/custom.css" rel="stylesheet" type="text/css">
-  <link href="/assets/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css">  
-  <link href="/atom.xml" rel="alternate" title="Small Steps" type="application/atom+xml">
-  <link rel="stylesheet" type="text/css" href="/assets/highslide/highslide.css" />
-  
-  
-
-</head>
-
-<body    data-spy="scroll">
-
-  <div class="container">
-    <header class="jumbotron subhead" id="overview">
-      <div class="subscribe">
-  <table>
-    <tr>
-      <td><span>Get Updates: &nbsp;</span></td>
-<!--      <td><a href="#" onclick="window.open('','FeedBurner','menubar=no,width=600,height=600,toolbar=no'); return false;" class="btn"><i class="icon-envelope"></i> By Email</a></td>
--->
-      <td><a href="/atom.xml" class="btn"><i class="icon-cog"></i> By RSS</a></td>
-      <td><a href="http://twitter.com/tskogberg" class="btn"><i class="icon-twitter-sign"></i> On Twitter</a></td>
-    </tr>
-  </table>
-</div>
-<h1 class="title">Small Steps</h1>
-<div id="weather" style="
-  position: absolute;
-  float: center;
-  top: 30px;
-  left: 400px;
-"></div>
-
-  <p class="lead">In the right direction</p>
-
-      <div class="navbar">
-  <div class="navbar-inner">
-    <div class="container" style="width: auto;">
-      <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </a>
-      <div class="nav-collapse">
-        <ul class="nav">
-          <li><a href="/">Home</a></li>
-          <li><a href="/blog/archives/">Blog</a></li>
-          <li><a href="/gallery/">Image Gallery</a></li>
-          <li><a href="/about/">About</a></li>
-        </ul>
-        
-          <form action="http://google.com/search" method="get" class="navbar-search pull-left">
-            <fieldset role="search">
-              <input type="hidden" name="q" value="site:tskogberg.github.com" />
-              <input type="text" name="q" results="0" placeholder="Search" class="search-query span2" />
-            </fieldset>
-          </form>
-        
-        <ul class="nav pull-right">
-          <li>
-            <a style="padding: 7px 0 0 0;" href="http://feeds.feedburner.com/kissr/pATh"><img src="http://feeds.feedburner.com/~fc/kissr/pATh?bg=99CCF&amp;fg=444444&amp;anim=0" height="26" width="88" style="border:0" alt="" /></a>            
-          </li>
-        </ul>
-      </div><!-- /.nav-collapse -->
-    </div>
-  </div><!-- /navbar-inner -->
-</div>
-
-    </header>
-    <div id="main">
-      <div id="content">
-        <div class="row">
-  <div class="span8">
-    
-    
-    
-      <article>
-        
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/12/24/own-domain/">Own Domain</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-12-24T00:45:00+01:00" pubdate data-updated="true">Mon Dec 24 00:45:00 2012</time>
-        
-         | <a href="/blog/2012/12/24/own-domain/#disqus_thread">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>New domain and ideas for this blog.</p>
+  <entry>
+    <title type="html"><![CDATA[Own domain]]></title>
+    <link href="http://tskogberg.github.com/blog/2012/12/24/own-domain/"/>
+    <updated>2012-12-24T00:45:00+01:00</updated>
+    <id>http://tskogberg.github.com/blog/2012/12/24/own-domain</id>
+    <content type="html"><![CDATA[<p>New domain and ideas for this blog.</p>
 
 <p>Since last time I&#8217;ve gotten a
 work as a Ruby/Rails developer and my idea is to share some thoughts
 about that. It could be some practices that we use at work or it could
 be some &#8216;aha&#8217; moments.</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-      </article>
-    
-    
-      <article>
-        
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/06/12/setting-up-octopress/">Setting Up Octopress</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-06-12T14:49:00+02:00" pubdate data-updated="true">Tue Jun 12 14:49:00 2012</time>
-        
-         | <a href="/blog/2012/06/12/setting-up-octopress/#disqus_thread">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>This post will try to explain step by step the installation of <a href="http://octopress.org">octopress</a>, how to deploy the result to <a href="http://dropbox.com">dropbox</a> and finally host it with <a href="http://kissr.co">kissr</a>.</p>
+  <entry>
+    <title type="html"><![CDATA[Setting up Octopress]]></title>
+    <link href="http://tskogberg.github.com/blog/2012/06/12/setting-up-octopress/"/>
+    <updated>2012-06-12T14:49:00+02:00</updated>
+    <id>http://tskogberg.github.com/blog/2012/06/12/setting-up-octopress</id>
+    <content type="html"><![CDATA[<p>This post will try to explain step by step the installation of <a href="http://octopress.org">octopress</a>, how to deploy the result to <a href="http://dropbox.com">dropbox</a> and finally host it with <a href="http://kissr.co">kissr</a>.</p>
 
 <p>Since I use a MacBook, all my steps will be based on OS X as operating system, but my guess is that with some small adjustments you&#8217;ll do fine with whatever you use. Also I&#8217;ll be reusing current installation guides (why reinvent the wheel!?) as much as possible only adding adjustments needed to make it run.</p>
 
@@ -358,44 +218,15 @@ Some social media applications are supported as addons/plugins and it shouldn&#8
 <p>Making a simple but fully functional nice looking static blog is fairly easy to do with Octopress/Dropbox/Kissr. I hope this post will help you creating your own without too much work. Best of luck and see you soon.</p>
 
 <p>Final note, you might want to check out <a href="http://octopress.org/docs/theme/">Theming &amp; Customization</a> to read about how to customaize your blog. For premade themes checkout: <a href="https://github.com/imathis/octopress/wiki/List-Of-Octopress-Themes">List Of Octopress Themes</a>.</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-      </article>
-    
-    
-      <article>
-        
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/05/31/update/">Update</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-05-31T18:36:00+02:00" pubdate data-updated="true">Thu May 31 18:36:00 2012</time>
-        
-         | <a href="/blog/2012/05/31/update/#disqus_thread">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>I&#8217;m still here. Added a few new features to the site.</p>
+  <entry>
+    <title type="html"><![CDATA[Update]]></title>
+    <link href="http://tskogberg.github.com/blog/2012/05/31/update/"/>
+    <updated>2012-05-31T18:36:00+02:00</updated>
+    <id>http://tskogberg.github.com/blog/2012/05/31/update</id>
+    <content type="html"><![CDATA[<p>I&#8217;m still here. Added a few new features to the site.</p>
 
 <ul>
 <li><p>An image gallery</p>
@@ -410,216 +241,22 @@ Some social media applications are supported as addons/plugins and it shouldn&#8
 <p>Also I&#8217;m in the progress of makeing a weather jquery plugin that&#8217;ll show the forcast for the local weather based on the viewers current ip. It&#8217;s just my first stumbling steps into jquery. Looking forward to share more about it in a near future.</p>
 
 <p>Next post will show how I did the setup of this blog. It&#8217;s fairly simple, but perhaps it&#8217;ll help someone struggling.</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-      </article>
-    
-    
-      <article>
-        
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2012/05/25/welcome/">Welcome</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2012-05-25T11:35:00+02:00" pubdate data-updated="true">Fri May 25 11:35:00 2012</time>
-        
-         | <a href="/blog/2012/05/25/welcome/#disqus_thread">Comments</a>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><p>I made a <a href="http://octopress.org/">Octopress</a> blog a year ago wanting to try it out and see how easy it was to create one. Back then I didn&#8217;t have a server to put it on, neither did I have any real motivation to be able to write anything of interest on it.</p>
+  <entry>
+    <title type="html"><![CDATA[Welcome]]></title>
+    <link href="http://tskogberg.github.com/blog/2012/05/25/welcome/"/>
+    <updated>2012-05-25T11:35:00+02:00</updated>
+    <id>http://tskogberg.github.com/blog/2012/05/25/welcome</id>
+    <content type="html"><![CDATA[<p>I made a <a href="http://octopress.org/">Octopress</a> blog a year ago wanting to try it out and see how easy it was to create one. Back then I didn&#8217;t have a server to put it on, neither did I have any real motivation to be able to write anything of interest on it.</p>
 
 <p>Well now I&#8217;ve found <a href="http://kissr.co">Kissr</a> so at least one of the above is satisfied. I guess we&#8217;ll findout later on about the other&#8230;.</p>
 
 <p>Maybe I should write a bit about what Octopress and Kissr offers. Octopress is a framework for generating static HTML pages. It&#8217;s kinda neat if you got no need for serverside generated pages and ideal for my needs, just wanting a simple blog. What about Kissr then? Well it&#8217;s a webserver service for viewing static HTML pages using <a href="http://dropbox.com">Dropbox</a>.</p>
 
 <p>The best part of it all is that all is free! Which is awesome!</p>
-</div>
+]]></content>
+  </entry>
   
-  
-
-
-      </article>
-    
-
-    
-      <footer>
-        
-        
-          <div class="sharing">
-  <br/>
-  
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://tskogberg.github.com/index.html" data-via="tskogberg" data-counturl="http://tskogberg.github.com/index.html" >Tweet</a>
-  
-  
-  
-</div>
-
-        
-      </footer>
-    
-
-    
-  </div>
-  
-  <div class="span4 sidebar">
-    <div class="well">
-      
-        <section>
-  <h2>Recent Posts</h2>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2012/12/24/own-domain/">Own domain</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2012/06/12/setting-up-octopress/">Setting up Octopress</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2012/05/31/update/">Update</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2012/05/25/welcome/">Welcome</a>
-      </li>
-    
-  </ul>
-</section>
-
-
-<section>
-  <h2>Latest Tweets</h2>
-  <ul id="tweets">
-    <li class="loading">Status updating&#8230;</li>
-  </ul>
-  
-    <a href="http://twitter.com/tskogberg" class="twitter-follow-button" data-show-count="false">Follow @tskogberg</a>
-  
-</section>
-
-
-
-
-
-      
-    </div>
-  </div>
-
-</div>
-
-      </div>
-    </div>
-    <footer class="footer"><p>
-  Copyright &copy; 2012 - Tomas Skogberg -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span> -
-  
-    <span class="credit">Theme by <a href="http://brianarmstrong.org">Brian Armstrong</a></span>
-  
-</p>
-</footer>
-    
-
-<script type="text/javascript">
-      var disqus_shortname = 'small-steps';
-      
-        
-        var disqus_script = 'count.js';
-      
-    (function () {
-      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    }());
-</script>
-
-
-
-
-
-
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-<script src="/assets/bootstrap/js/bootstrap.min.js"></script>
-<script type="text/javascript" 
-  src="/assets/highslide/highslide-with-gallery.js">
-</script>
-<script src="/assets/simpleweather/lib/jquery.xdomainajax.js">
-</script>
-<script src="/assets/simpleweather/lib/jquery.cssmap.js">
-</script>
-<script src="/assets/simpleweather/lib/jquery-cookie/jquery.cookie.js">
-</script>
-<script language="JavaScript" src="http://www.geoplugin.net/javascript.gp" type="text/javascript">
-</script>
- <script type="text/javascript" src="/assets/simpleweather/jquery.simpleweather.js">
-</script>
-<script type="text/javascript" src="http://jquery-xml2json-plugin.googlecode.com/svn/trunk/jquery.xml2json.js">
-</script>
-<script type="text/javascript">
-  $('#weather').simpleWeather();
-</script>
-<script type="text/javascript">
-  hs.graphicsDir = '/assets/highslide/graphics/';
-  hs.align = 'center';
-  hs.transitions = ['expand', 'crossfade'];
-  hs.outlineType = 'rounded-white';
-  hs.fadeInOut = true;
-  hs.numberPosition = 'caption';
-  hs.dimmingOpacity = 0.75;
-
-  // Add the controlbar
-  if (hs.addSlideshow) hs.addSlideshow({
-    //slideshowGroup: 'group1',
-    interval: 5000,
-    repeat: false,
-    useControls: true,
-    fixedControls: 'fit',
-    overlayOptions: {
-      opacity: .75,
-      position: 'bottom center',
-      hideOnMouseOut: true
-    }
-  });
-</script>
-
-  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
-  <script type="text/javascript">
-    (function(){
-      var twitterWidgets = document.createElement('script');
-      twitterWidgets.type = 'text/javascript';
-      twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
-      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-    })();
-    
-    $(document).ready(function(){
-      getTwitterFeed("tskogberg", 4, false);
-    });
-  </script>
-
-
-  </div>
-</body>
-</html>
+</feed>

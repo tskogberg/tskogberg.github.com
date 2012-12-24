@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Octopress | Small Steps]]></title>
+  <link href="http://tskogberg.github.com/blog/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://tskogberg.github.com/"/>
+  <updated>2012-12-24T03:12:01+01:00</updated>
+  <id>http://tskogberg.github.com/</id>
+  <author>
+    <name><![CDATA[Tomas Skogberg]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome]]></title>
+    <link href="http://tskogberg.github.com/blog/2012/05/25/welcome/"/>
+    <updated>2012-05-25T11:35:00+02:00</updated>
+    <id>http://tskogberg.github.com/blog/2012/05/25/welcome</id>
+    <content type="html"><![CDATA[<p>I made a <a href="http://octopress.org/">Octopress</a> blog a year ago wanting to try it out and see how easy it was to create one. Back then I didn't have a server to put it on, neither did I have any real motivation to be able to write anything of interest on it.</p>
+
+<p>Well now I've found <a href="http://kissr.co">Kissr</a> so at least one of the above is satisfied. I guess we'll findout later on about the other....</p>
+
+<p>Maybe I should write a bit about what Octopress and Kissr offers. Octopress is a framework for generating static HTML pages. It's kinda neat if you got no need for serverside generated pages and ideal for my needs, just wanting a simple blog. What about Kissr then? Well it's a webserver service for viewing static HTML pages using <a href="http://dropbox.com">Dropbox</a>.</p>
+
+<p>The best part of it all is that all is free! Which is awesome!</p>
+]]></content>
+  </entry>
+  
+</feed>
