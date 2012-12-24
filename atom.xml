@@ -4,7 +4,7 @@
   <title><![CDATA[Small Steps]]></title>
   <link href="http://tskogberg.github.com/atom.xml" rel="self"/>
   <link href="http://tskogberg.github.com/"/>
-  <updated>2012-12-24T03:12:01+01:00</updated>
+  <updated>2012-12-24T03:18:02+01:00</updated>
   <id>http://tskogberg.github.com/</id>
   <author>
     <name><![CDATA[Tomas Skogberg]]></name>
@@ -20,7 +20,7 @@
     <id>http://tskogberg.github.com/blog/2012/12/24/own-domain</id>
     <content type="html"><![CDATA[<p>New domain and ideas for this blog.</p>
 
-<p>Since last time I&#8217;ve gotten a
+<p>Since last time I&#8217;ve gotten
 work as a Ruby/Rails developer and my idea is to share some thoughts
 about that. It could be some practices that we use at work or it could
 be some &#8216;aha&#8217; moments.</p>
